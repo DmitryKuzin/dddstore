@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb.host: localhost
+    mongodb.port: 27017
+    mongodb.uri: mongodb://localhost/evolution
+    mongo.repositories.enabled: true
